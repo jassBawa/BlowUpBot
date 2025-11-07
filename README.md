@@ -509,9 +509,6 @@ For support, questions, or feedback:
 
 - [ ] Mainnet deployment
 - [ ] Multi-wallet support
-- [ ] Advanced charting and analytics
-- [ ] Mobile app (React Native)
-- [ ] Additional DEX integrations (Jupiter, Orca)
 - [ ] Portfolio rebalancing automation
 - [ ] Social trading features
 - [ ] Advanced order types (limit orders, stop-loss)
